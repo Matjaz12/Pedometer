@@ -2,7 +2,7 @@
 
 ## About
 
-The project was developed for course: Computer Systems (Master's degree, FRI 2022)
+The project was developed for course: `Computer Systems (Master's degree, FRI 2022)`
 
 ## Usage
 
