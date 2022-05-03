@@ -32,7 +32,7 @@ Local IP can be view by opening the Serial Monitor in Arduino IDE.
 
 <figure>
 <figcaption>User Interface</figcaption>
-<img src="img/html_client_demo.png" alt="my alt text" width="150"/>
+<img src="img/html_client_demo.png" alt="my alt text" width="300"/>
 </figure>
 
 ## Report 
