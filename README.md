@@ -4,6 +4,19 @@
 
 The project was developed for course: `Computer Systems (Master's degree, FRI 2022)`
 
+## Hardware
+Step tracker is implemented using `ESP8266` microcontroller and `MPU 9520` sensor unit. 
+
+<figure>
+<img src="img/board" alt="my alt text" width="300"/>
+<figcaption>Development Board</figcaption>
+</figure>
+
+<figure>
+<img src="img/MPU9250_axes.jpg" alt="my alt text" width="300"/>
+<figcaption>MPU9250 axes</figcaption>
+</figure>
+
 ## Usage
 
 Using an Arduino IDE
