@@ -18,8 +18,6 @@ Step tracker is implemented using `ESP8266` microcontroller and `MPU 9520` senso
 </figure>
 
 ## Usage
-
-Using an Arduino IDE
 User must define the following 2 marcos, with network credetials
 
 ```
