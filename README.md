@@ -30,5 +30,10 @@ User must define the following 2 marcos, with network credetials
 User can access the UI through browser on the local IP. 
 Local IP can be view by opening the Serial Monitor in Arduino IDE.
 
+<figure>
+<figcaption>User Interface</figcaption>
+<img src="img/html_client_demo.png" alt="my alt text" width="150"/>
+</figure>
+
 ## Report 
 Seminar report is available (`step_tracker.pdf`). 
