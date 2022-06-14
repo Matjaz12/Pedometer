@@ -1,4 +1,4 @@
-# Step-Tracker 
+# Pedometer 
 
 ## About
 
