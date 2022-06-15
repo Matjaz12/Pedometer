@@ -2,7 +2,7 @@
 
 ## About
 
-The project was developed for course: `Computer Systems (Master's degree, FRI 2022)`
+The project was developed for course [Computer Systems](https://www.fri.uni-lj.si/en/course/63509)
 
 ## Hardware
 Step tracker is implemented using `ESP8266` microcontroller and `MPU 9520` sensor unit. 
